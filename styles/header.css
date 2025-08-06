@@ -38,9 +38,11 @@
 height: 25px;
 margin-left: 24px;
 margin-right: 20px;
+cursor: pointer;
 }
 .youtube-logo{
 height: 20px;
+cursor: pointer;
 }
 .Search-bar{
   flex: 1;
@@ -77,6 +79,7 @@ position: relative;
 display: flex;
 justify-content: center;
 align-items: center;
+cursor: pointer;
 }
 
 .search-button .tooltip,
@@ -98,6 +101,7 @@ font-family: Roboto,Arial;
   transition: all ;
   pointer-events: none;
   white-space: nowrap;
+  cursor: pointer;
   
 }
 .search-button:hover .tooltip,
@@ -124,9 +128,11 @@ height: 24px;
 }
 .youtube-apps-icon{
 height: 24px;
+cursor: pointer;
 }
 .notification-icon{
 height: 24px;
+cursor: pointer;
 }
 .notification-icon-container{
   position: relative;
