@@ -8,6 +8,6 @@ p {
         padding-top: 80px;
         padding-left: 96px;
         padding-right: 24px;
-        height: 3000px;
+        height: auto;
         background-color: rgb(249, 249, 249);
       }
