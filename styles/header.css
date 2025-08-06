@@ -85,7 +85,7 @@ align-items: center;
 {
 font-family: Roboto,Arial;
   position: absolute;
-  background-color: gray;
+  background-color: rgb(156, 156, 156);
   color: white;
   padding-left: 8px;
   padding-right: 8px;
